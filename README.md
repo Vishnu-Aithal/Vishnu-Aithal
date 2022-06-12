@@ -1,6 +1,6 @@
 # Hi 👋 My name is Vishnu Aithal
 
-## Dentist and Full Stack Engineer
+## Dentist and Web Devoloper
 
 I finished my Bachelor's in Dental Surgery in 2020, Learning Web Development from neoGcamp 2022
 
