@@ -44,9 +44,15 @@ I finished my Bachelor's in Dental Surgery in 2020, Learning Web Development fro
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Vishnu-Aithal/neo-support" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Aithal&repo=neo-support&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vishnu-Aithal/notes-app/tree/master" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Aithal&repo=notes-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+
 <br/><br/>
+
 <div width="100%" align="center"><a href="https://github.com/Vishnu-Aithal/Some-UI-Documentaion" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Aithal&repo=Some-UI-Documentaion&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br />
 <br/><br/><br/>
 
 <div width="100%" align="center"><a href="https://github.com/Vishnu-Aithal/e-com-react/tree/main" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Aithal&repo=e-com-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vishnu-Aithal/video-lib-react/tree/main" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnu-Aithal&repo=video-lib-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
+
+## <br/><br/><br/>
+
+Profile Stats Generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
